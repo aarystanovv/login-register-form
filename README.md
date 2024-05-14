@@ -20,4 +20,4 @@ This is a simple user management system implemented in PHP, MySQL, and jQuery (A
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/user-management-system.git
+git clone https://github.com/aarystanovv/login-register-form
